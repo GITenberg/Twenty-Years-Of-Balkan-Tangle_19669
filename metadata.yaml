@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8806
     wikipedia: http://en.wikipedia.org/wiki/Edith_Durham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19669#Twenty-Years-Of-Balkan-Tangle
 gutenberg_issued: '2006-10-30'
 gutenberg_type: Text
 identifiers:
